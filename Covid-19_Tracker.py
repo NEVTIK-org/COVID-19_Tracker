@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import date
+import speech_info
 
 url = requests.get("https://www.worldometers.info/coronavirus/").text
 data_parent = bs(url,'html.parser')
@@ -58,3 +59,5 @@ graphic('50 Highest Death Rate by Corona Cases each Country','Total_Kematian','T
 b = pd.read_csv('Corona_Case.csv')
 plt.bar(b['date'],b['cases'])
 plt.show()
+
+
