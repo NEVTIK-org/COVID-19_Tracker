@@ -1,0 +1,185 @@
+negara,total_kasus,kasus_baru,total_kematian,kematian_baru,total_disembuhkan,kasus_aktif
+China,80967,39,3248,3,71150,6569
+Italy,41035,0,3405,0,4440,33190
+Spain,19980,1903,1002,171,1588,17390
+Iran,19644,1237,1433,149,5979,12232
+Germany,17372,2052,44,0,115,17213
+USA,14366,577,217,10,125,14024
+France,10995,0,372,0,1295,9328
+S. Korea,8652,87,94,3,2233,6325
+Switzerland,4898,676,43,0,15,4840
+UK,3269,0,144,0,65,3060
+Netherlands,2460,0,76,0,2,2382
+Austria,2333,154,6,0,9,2318
+Belgium,2257,462,37,16,204,2016
+Norway,1835,45,7,0,1,1827
+Sweden,1456,17,11,0,16,1429
+Denmark,1226,75,9,3,1,1216
+Malaysia,1030,130,2,0,87,941
+Portugal,1020,234,6,2,5,1009
+Japan,963,20,33,0,215,715
+Australia,876,120,7,0,46,823
+Canada,873,0,12,0,11,850
+Czechia,774,80,0,0,4,770
+Diamond Princess,712,0,7,0,527,178
+Israel,705,28,0,0,15,690
+Brazil,647,7,7,0,2,638
+Ireland,557,0,3,0,5,549
+Luxembourg,484,149,4,0,6,474
+Pakistan,467,13,3,1,13,451
+Greece,464,0,6,0,19,439
+Qatar,460,0,0,0,10,450
+Finland,430,30,0,0,10,420
+Iceland,409,79,0,0,5,404
+Singapore,385,40,0,0,124,261
+Poland,378,23,6,1,13,359
+Indonesia,369,60,32,7,17,320
+Turkey,359,0,4,0,0,355
+Chile,342,0,0,0,0,342
+Thailand,322,50,1,0,42,279
+Slovenia,319,0,1,0,0,318
+Romania,308,31,0,0,31,277
+Bahrain,284,5,1,0,110,173
+Estonia,283,16,0,0,1,282
+Saudi Arabia,274,0,0,0,8,266
+Ecuador,260,0,4,1,1,255
+Egypt,256,0,7,0,42,207
+Hong Kong,256,48,4,0,98,154
+Peru,234,0,3,2,1,230
+Philippines,230,13,18,1,8,204
+India,223,29,5,1,23,195
+South Africa,202,52,0,0,0,202
+Russia,199,0,1,0,9,189
+Iraq,192,0,13,0,49,130
+Mexico,164,46,1,0,4,159
+Lebanon,163,6,4,0,4,155
+Kuwait,159,11,0,0,22,137
+San Marino,144,0,14,0,4,126
+UAE,140,0,0,0,31,109
+Panama,137,0,1,0,1,135
+Armenia,136,14,0,0,1,135
+Taiwan,135,27,2,1,28,105
+Argentina,128,0,3,0,3,122
+Colombia,128,20,0,0,1,127
+Slovakia,124,0,0,0,0,124
+Serbia,118,15,0,0,2,116
+Croatia,113,3,1,0,5,107
+Bulgaria,112,5,3,0,1,108
+Latvia,111,25,0,0,1,110
+Uruguay,94,15,0,0,0,94
+Algeria,90,0,10,1,32,48
+Costa Rica,89,2,2,1,0,87
+Vietnam,87,2,0,0,16,71
+Hungary,85,12,3,2,7,75
+Faeroe Islands,80,8,0,0,3,77
+Brunei,78,5,0,0,1,77
+Andorra,75,1,0,0,1,74
+Albania,70,6,2,0,0,68
+Sri Lanka,70,10,0,0,3,67
+Belarus,69,18,0,0,15,54
+Jordan,69,0,0,0,1,68
+Bosnia and Herzegovina,69,5,0,0,2,67
+North Macedonia,67,17,0,0,1,66
+Cyprus,67,0,0,0,0,67
+Morocco,66,3,3,1,2,61
+Malta,64,11,0,0,2,62
+Tunisia,54,15,1,0,1,52
+Moldova,49,0,1,0,1,47
+Kazakhstan,49,5,0,0,0,49
+Lithuania,49,1,0,0,1,48
+Oman,48,0,0,0,13,35
+Palestine,48,1,0,0,17,31
+Cambodia,47,10,0,0,1,46
+Guadeloupe,45,12,0,0,0,45
+Azerbaijan,44,0,1,0,7,36
+Georgia,43,3,0,0,1,42
+Venezuela,42,0,0,0,0,42
+Burkina Faso,40,7,1,0,4,35
+New Zealand,39,11,0,0,0,39
+Senegal,38,2,0,0,2,36
+Dominican Republic,34,0,2,0,0,32
+Uzbekistan,33,10,0,0,0,33
+Martinique,32,9,1,0,0,31
+Liechtenstein,28,0,0,0,0,28
+Réunion,28,0,0,0,0,28
+Ukraine,26,0,3,0,1,22
+Afghanistan,24,2,0,0,1,23
+Honduras,24,12,0,0,0,24
+Bangladesh,20,2,1,0,3,16
+Cameroon,20,7,0,0,2,18
+DRC,18,4,0,0,0,18
+Macao,17,0,0,0,10,7
+Bolivia,17,2,0,0,0,17
+Cuba,16,5,1,0,0,15
+Jamaica,16,1,1,0,2,13
+Ghana,16,5,0,0,8,8
+French Guiana,15,0,0,0,0,15
+Guam,14,2,0,0,0,14
+Maldives,13,0,0,0,0,13
+Montenegro,13,0,0,0,0,13
+Paraguay,13,0,0,0,0,13
+Nigeria,12,0,0,0,1,11
+Mauritius,12,5,0,0,0,12
+Monaco,11,1,0,0,0,11
+Channel Islands,11,0,0,0,0,11
+French Polynesia,11,5,0,0,0,11
+Rwanda,11,0,0,0,0,11
+Gibraltar,10,0,0,0,2,8
+Guatemala,9,0,1,0,0,8
+Ivory Coast,9,0,0,0,1,8
+Ethiopia,9,2,0,0,0,9
+Togo,9,8,0,0,0,9
+Trinidad and Tobago,9,0,0,0,0,9
+Puerto Rico,8,2,0,0,0,8
+Kenya,7,0,0,0,0,7
+Seychelles,7,1,0,0,0,7
+Equatorial Guinea,6,0,0,0,0,6
+Kyrgyzstan,6,3,0,0,0,6
+Mongolia,6,0,0,0,0,6
+Tanzania,6,0,0,0,0,6
+Guyana,5,0,1,0,0,4
+Aruba,5,0,0,0,1,4
+Barbados,5,0,0,0,0,5
+Mayotte,4,0,0,0,0,4
+Suriname,4,3,0,0,0,4
+Cayman Islands,3,0,1,0,0,2
+Curaçao,3,0,1,0,0,2
+Gabon,3,0,1,1,0,2
+Bahamas,3,0,0,0,0,3
+Congo,3,0,0,0,0,3
+Namibia,3,0,0,0,0,3
+St. Barth,3,0,0,0,0,3
+Saint Martin,3,0,0,0,0,3
+U.S. Virgin Islands,3,0,0,0,0,3
+Sudan,2,0,1,0,0,1
+Benin,2,0,0,0,0,2
+Bermuda,2,0,0,0,0,2
+Bhutan,2,1,0,0,0,2
+CAR,2,1,0,0,0,2
+Greenland,2,0,0,0,0,2
+Haiti,2,2,0,0,0,2
+Liberia,2,0,0,0,0,2
+Mauritania,2,0,0,0,0,2
+New Caledonia,2,0,0,0,0,2
+Saint Lucia,2,0,0,0,0,2
+Zambia,2,0,0,0,0,2
+Nepal,1,0,0,0,1,0
+Angola,1,1,0,0,0,1
+Antigua and Barbuda,1,0,0,0,0,1
+Cabo Verde,1,1,0,0,0,1
+Chad,1,0,0,0,0,1
+Djibouti,1,0,0,0,0,1
+El Salvador,1,0,0,0,0,1
+Fiji,1,0,0,0,0,1
+Gambia,1,0,0,0,0,1
+Guinea,1,0,0,0,0,1
+Vatican City,1,0,0,0,0,1
+Isle of Man,1,0,0,0,0,1
+Montserrat,1,0,0,0,0,1
+Nicaragua,1,0,0,0,0,1
+Niger,1,0,0,0,0,1
+Papua New Guinea,1,1,0,0,0,1
+St. Vincent Grenadines,1,0,0,0,0,1
+Sint Maarten,1,0,0,0,0,1
+Somalia,1,0,0,0,0,1
+Eswatini,1,0,0,0,0,1
