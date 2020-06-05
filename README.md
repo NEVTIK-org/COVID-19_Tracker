@@ -1,2 +1,2 @@
-# Covid-19_Stalker
-Scraping Data about Covid-19 Disease Victim Data
+# Covid-19_Tracker
+Scraping Data about Covid-19 Disease Infected Data
