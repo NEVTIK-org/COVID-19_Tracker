@@ -1,0 +1,164 @@
+Negara,Total_Kasus,Kasus_Baru,Total_Kematian,Kematian_Baru,Total_Disembuhkan,Kasus_Aktif
+China,80881,21,3226,13,68690,8965
+Italy,27980,0,2158,0,2749,23073
+Iran,14991,0,853,0,4996,9142
+Spain,9942,0,342,0,530,9070
+S. Korea,8320,84,81,6,1401,6838
+Germany,7272,0,17,0,67,7188
+France,6633,0,148,0,12,6473
+USA,4718,55,93,7,74,4551
+Switzerland,2353,0,19,0,4,2330
+UK,1543,0,55,0,52,1436
+Netherlands,1413,0,24,0,2,1387
+Norway,1348,0,3,0,1,1344
+Sweden,1121,0,7,0,1,1113
+Belgium,1058,0,10,0,1,1047
+Austria,1018,0,3,0,8,1007
+Denmark,914,0,4,0,1,909
+Japan,833,0,28,0,144,661
+Diamond Princess,696,0,7,0,456,233
+Malaysia,566,0,0,0,42,524
+Canada,441,0,4,0,11,426
+Australia,440,39,5,0,27,408
+Qatar,439,0,0,0,4,435
+Greece,352,0,4,0,8,340
+Czechia,344,0,0,0,3,341
+Portugal,331,0,1,0,3,327
+Israel,298,0,0,0,4,294
+Finland,278,0,0,0,10,268
+Slovenia,253,0,1,0,0,252
+Singapore,243,0,0,0,109,134
+Brazil,234,0,0,0,2,232
+Bahrain,228,0,1,0,81,146
+Ireland,223,0,2,0,5,216
+Estonia,205,0,0,0,1,204
+Iceland,199,0,0,0,0,199
+Pakistan,184,0,1,0,2,181
+Poland,177,0,4,0,0,173
+Romania,168,0,0,0,9,159
+Egypt,166,0,4,0,32,130
+Hong Kong,157,2,4,0,81,72
+Chile,156,0,0,0,0,156
+Thailand,147,0,1,0,35,111
+Philippines,142,0,12,0,5,125
+Indonesia,134,0,5,0,8,121
+Iraq,133,0,10,0,32,91
+Saudi Arabia,133,0,0,0,6,127
+India,129,0,2,0,13,114
+Kuwait,123,0,0,0,9,114
+San Marino,109,0,7,0,4,98
+Lebanon,109,0,3,0,3,103
+UAE,98,0,0,0,23,75
+Russia,93,0,0,0,8,85
+Peru,86,0,0,0,1,85
+Mexico,82,29,0,0,4,78
+Luxembourg,81,0,1,0,0,80
+Slovakia,72,0,0,0,0,72
+Panama,69,0,1,0,0,68
+Taiwan,67,0,1,0,20,46
+Argentina,65,0,2,0,3,60
+South Africa,64,0,0,0,0,64
+Bulgaria,62,0,2,0,0,60
+Vietnam,61,0,0,0,16,45
+Algeria,60,0,4,0,10,46
+Ecuador,58,0,2,0,0,56
+Croatia,57,0,0,0,3,54
+Serbia,57,0,0,0,1,56
+Brunei,54,0,0,0,0,54
+Colombia,54,0,0,0,1,53
+Armenia,52,0,0,0,1,51
+Albania,51,0,1,0,0,50
+Turkey,47,0,0,0,0,47
+Cyprus,46,0,0,0,0,46
+Costa Rica,41,0,0,0,0,41
+Hungary,39,0,1,0,2,36
+Palestine,39,0,0,0,0,39
+Morocco,37,0,1,0,1,35
+Belarus,36,0,0,0,3,33
+Latvia,34,0,0,0,1,33
+Georgia,33,0,0,0,1,32
+Venezuela,33,16,0,0,0,33
+Malta,30,0,0,0,2,28
+Jordan,29,0,0,0,1,28
+Moldova,29,0,0,0,1,28
+Uruguay,29,0,0,0,0,29
+Sri Lanka,28,0,0,0,1,27
+Senegal,27,0,0,0,2,25
+Azerbaijan,25,0,1,0,6,18
+Bosnia and Herzegovina,25,0,0,0,2,23
+Cambodia,24,12,0,0,1,23
+North Macedonia,24,0,0,0,1,23
+Oman,24,0,0,0,9,15
+Tunisia,24,0,0,0,0,24
+Dominican Republic,21,0,1,0,0,20
+Afghanistan,21,0,0,0,1,20
+Lithuania,18,0,0,0,1,17
+Faeroe Islands,18,0,0,0,0,18
+Martinique,15,0,1,0,0,14
+Burkina Faso,15,0,0,0,0,15
+Andorra,14,0,0,0,0,14
+Kazakhstan,13,3,0,0,0,13
+Maldives,13,0,0,0,0,13
+Macao,12,0,0,0,10,2
+Jamaica,12,0,0,0,2,10
+New Zealand,11,3,0,0,0,11
+Bolivia,11,0,0,0,0,11
+French Guiana,11,0,0,0,0,11
+Monaco,9,0,0,0,0,9
+Réunion,9,0,0,0,0,9
+Guatemala,8,0,1,0,0,7
+Bangladesh,8,0,0,0,3,5
+Paraguay,8,0,0,0,0,8
+Uzbekistan,8,0,0,0,0,8
+Guyana,7,0,1,0,0,6
+Ukraine,7,0,1,0,0,6
+Liechtenstein,7,0,0,0,0,7
+Rwanda,7,0,0,0,0,7
+Channel Islands,6,0,0,0,0,6
+Ghana,6,0,0,0,0,6
+Guadeloupe,6,0,0,0,0,6
+Honduras,6,0,0,0,0,6
+Cameroon,5,0,0,0,0,5
+Ethiopia,5,0,0,0,0,5
+Puerto Rico,5,0,0,0,0,5
+Ivory Coast,4,0,0,0,0,4
+Cuba,4,0,0,0,0,4
+Mongolia,4,0,0,0,0,4
+Trinidad and Tobago,4,0,0,0,0,4
+DRC,3,0,0,0,0,3
+French Polynesia,3,0,0,0,0,3
+Gibraltar,3,0,0,0,1,2
+Guam,3,0,0,0,0,3
+Kenya,3,0,0,0,0,3
+St. Barth,3,0,0,0,0,3
+Seychelles,3,0,0,0,0,3
+Nigeria,2,0,0,0,1,1
+Aruba,2,0,0,0,0,2
+Curaçao,2,0,0,0,0,2
+Namibia,2,0,0,0,0,2
+Saint Lucia,2,0,0,0,0,2
+Saint Martin,2,0,0,0,0,2
+Cayman Islands,1,0,1,0,0,0
+Sudan,1,0,1,0,0,0
+Nepal,1,0,0,0,1,0
+Antigua and Barbuda,1,0,0,0,0,1
+Bahamas,1,0,0,0,0,1
+Benin,1,0,0,0,0,1
+Bhutan,1,0,0,0,0,1
+CAR,1,0,0,0,0,1
+Congo,1,0,0,0,0,1
+Equatorial Guinea,1,0,0,0,0,1
+Gabon,1,0,0,0,0,1
+Greenland,1,0,0,0,0,1
+Guinea,1,0,0,0,0,1
+Vatican City,1,0,0,0,0,1
+Liberia,1,0,0,0,0,1
+Mauritania,1,0,0,0,0,1
+Mayotte,1,0,0,0,0,1
+St. Vincent Grenadines,1,0,0,0,0,1
+Somalia,1,0,0,0,0,1
+Suriname,1,0,0,0,0,1
+Eswatini,1,0,0,0,0,1
+Tanzania,1,0,0,0,0,1
+Togo,1,0,0,0,0,1
+U.S. Virgin Islands,1,0,0,0,0,1
